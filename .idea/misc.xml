@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/JK_Apps/NovelReader/app/src/main/res/drawable/content_card_text.xml" value="0.1645" />
+        <entry key="..\:/Projects/JK_Apps/NovelReader/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.137" />
+        <entry key="..\:/Projects/JK_Apps/NovelReader/app/src/main/res/layout/activity_main.xml" value="0.22245673279864922" />
+        <entry key="..\:/Projects/JK_Apps/NovelReader/app/src/main/res/layout/activity_novel.xml" value="0.22245673279864922" />
+        <entry key="..\:/Projects/JK_Apps/NovelReader/app/src/main/res/layout/list_novel_item_view.xml" value="0.22530996152201796" />
+        <entry key="..\:/Projects/JK_Apps/NovelReader/app/src/main/res/layout/novel_top_layout.xml" value="0.22530996152201796" />
+        <entry key="..\:/Projects/JK_Apps/NovelReader/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1645" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel
